@@ -62,7 +62,7 @@
       "description": "위즈아이 대표 홈페이지 개설",
       "webUrl": "https://www.wizai.co.kr/#/home",
       "isTeam": true,
-      "period": ["2022. 01", "2022. 05"],
+      "period": ["2023. 01", "2023. 05"],
       "stack": ["Vue.js","node.js"]
     }
     ,
@@ -72,7 +72,7 @@
       "description": "직원·예보관을 위한 내부용 현업시스템과 대국민,전문가를 위한 외부용 시스템",
       "webUrl": "https://global.amo.go.kr/index.do",
       "isTeam": true,
-      "period": ["2022. 05", "2022. 12"],
+      "period": ["2023. 05", "2023. 12"],
       "stack": ["Java", "Spring Boot", "oracle", "spring legacy"]
     }
   ],

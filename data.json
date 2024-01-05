@@ -31,7 +31,7 @@
     {
       "id": 0,
       "name": "위치관제 홈페이지",
-      "description": "TCP/IP 기반으로 통신하는 위치 관제 단말기의 데이터를 수신받아 지도API를 활용 위치정보를 제공하여 사용자 들에게 실시간 위치정보 제공 시스템.",
+      "description": "TCP/IP 기반으로 통신하는 위치 관제 단말기의 데이터를 수신받아 지도API를 활용 위치정보를 제공하여 사용자 들에게 실시간 위치정보 제공 시스템",
       "webUrl": "https://www.iotlbs.com/",
       "repoUrl": "https://www.erdcloud.com/d/Haa92tNK2iMFn5wLY",
       "isTeam": true,
@@ -41,7 +41,7 @@
     {
       "id": 1,
       "name": "기상데이터 API 서비스 개발",
-      "description": "전국 해수욕장의 날씨 예보(초단기예보,단기예보,중기 가이던스 모델), 조석 정보, 파고 정보, 일출일몰 정보, 수온 정보 제공 서비스.",
+      "description": "전국 해수욕장의 날씨 예보(초단기예보,단기예보,중기 가이던스 모델), 조석 정보, 파고 정보, 일출일몰 정보, 수온 정보 제공 서비스",
       "webUrl": "https://www.data.go.kr/data/15102239/openapi.do",
       "isTeam": true,
       "period": ["2022. 05", "2022. 12"],
@@ -50,7 +50,7 @@
     {
       "id": 2,
       "name": "기상청 빅데이터 콘테스트",
-      "description": "기상-타분야 (공공, 민간) 빅데이터 융합 분야 공모를 통한 참신한 아이디어 발굴 하고 기상·빅데이터 분야 인재 양성과 일자리 마련 지원 서비스.",
+      "description": "기상-타분야 (공공, 민간) 빅데이터 융합 분야 공모를 통한 참신한 아이디어 발굴 하고 기상·빅데이터 분야 인재 양성과 일자리 마련 지원 서비스",
       "webUrl": "https://bd.kma.go.kr/contest/main.do",
       "isTeam": true,
       "period": ["2022. 05", "2022. 12"],
@@ -59,7 +59,7 @@
     {
       "id": 3,
       "name": "위즈아이 홈페이지 개설",
-      "description": "위즈아이 대표 홈페이지 개설.",
+      "description": "위즈아이 대표 홈페이지 개설",
       "webUrl": "https://www.wizai.co.kr/#/home",
       "isTeam": true,
       "period": ["2022. 01", "2022. 05"],
@@ -69,7 +69,7 @@
     {
       "id": 4,
       "name": "항공기상청 개선사업",
-      "description": "직원·예보관을 위한 내부용 현업시스템과 대국민,전문가를 위한 외부용 시스템.",
+      "description": "직원·예보관을 위한 내부용 현업시스템과 대국민,전문가를 위한 외부용 시스템",
       "webUrl": "https://global.amo.go.kr/index.do",
       "isTeam": true,
       "period": ["2022. 05", "2022. 12"],

@@ -1,52 +1,79 @@
 {
   "resumeTitle": {
-    "title": "Hong Gil Dong"
+    "title": "Kang Ho Jung"
   },
 
   "information": {
-    "name": "홍길동",
+    "name": "강호중",
     "contact": [
-      { "id": 0, "name": "Email", "href": "honggildong@gmail.com", "isEmail": true },
-      { "id": 1, "name": "Github", "href": "https://github.com/honggildong" },
-      { "id": 2, "name": "Blog", "href": "https://velog.io/@honggildong" }
+      { "id": 0, "name": "Email", "href": "akdlakdrn@naver.com", "isEmail": true },
+      { "id": 1, "name": "Github", "href": "https://github.com/akdlakdrn" },
+      { "id": 2, "name": "Blog", "href": "https://growdeveloper.tistory.com/" }
     ]
   },
 
   "workExperience": [
     {
       "id": 0,
-      "name": "커피프린스 1호점",
-      "position": "Front-end Engineer",
-      "period": ["2019. 01", "2019. 09"]
+      "name": "IOTPLEX",
+      "position": "응용 소프트웨어 개발",
+      "period": ["2019. 08", "2022. 01"]
     },
     {
       "id": 1,
-      "name": "커피프린스 2호점",
-      "position": "바리스타",
-      "period": ["2022. 01", "now"]
+      "name": "WIZAI",
+      "position": "응용 소프트웨어 개발",
+      "period": ["2022. 04", "now"]
     }
   ],
 
   "project": [
     {
       "id": 0,
-      "name": "첫번째 팀 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
+      "name": "위치관제 홈페이지",
+      "description": "TCP/IP 기반으로 통신하는 위치 관제 단말기의 데이터를 수신받아 지도API를 활용 위치정보를 제공하여 사용자 들에게 실시간 위치정보 제공 시스템.",
+      "webUrl": "https://www.iotlbs.com/",
+      "repoUrl": "https://www.erdcloud.com/d/Haa92tNK2iMFn5wLY",
       "isTeam": true,
       "period": ["2022. 07", "2022. 09"],
-      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+      "stack": ["Windows Server", "Classic Asp", "JavaScript", "Java", "Spring Boot","Ms-sql","NettyLibrary"]
     },
     {
       "id": 1,
-      "name": "첫번째 개인 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
-      "isTeam": false,
-      "period": ["2022. 10", "2022. 11"],
-      "stack": ["JavaScript", "HTML/CSS"]
+      "name": "기상데이터 API 서비스 개발",
+      "description": "전국 해수욕장의 날씨 예보(초단기예보,단기예보,중기 가이던스 모델), 조석 정보, 파고 정보, 일출일몰 정보, 수온 정보 제공 서비스.",
+      "webUrl": "https://www.data.go.kr/data/15102239/openapi.do",
+      "isTeam": true,
+      "period": ["2022. 05", "2022. 12"],
+      "stack": ["Java", "Spring Boot", "tibero", "spring legacy", "NC file Reader"]
+    },
+    {
+      "id": 2,
+      "name": "기상청 빅데이터 콘테스트",
+      "description": "기상-타분야 (공공, 민간) 빅데이터 융합 분야 공모를 통한 참신한 아이디어 발굴 하고 기상·빅데이터 분야 인재 양성과 일자리 마련 지원 서비스.",
+      "webUrl": "https://bd.kma.go.kr/contest/main.do",
+      "isTeam": true,
+      "period": ["2022. 05", "2022. 12"],
+      "stack": ["Java", "Spring Boot", "tibero", "spring legacy"]
+    },
+    {
+      "id": 3,
+      "name": "위즈아이 홈페이지 개설",
+      "description": "위즈아이 대표 홈페이지 개설.",
+      "webUrl": "https://www.wizai.co.kr/#/home",
+      "isTeam": true,
+      "period": ["2022. 01", "2022. 05"],
+      "stack": ["Vue.js","node.js"]
+    }
+    ,
+    {
+      "id": 4,
+      "name": "항공기상청 개선사업",
+      "description": "직원·예보관을 위한 내부용 현업시스템과 대국민,전문가를 위한 외부용 시스템.",
+      "webUrl": "https://global.amo.go.kr/index.do",
+      "isTeam": true,
+      "period": ["2022. 05", "2022. 12"],
+      "stack": ["Java", "Spring Boot", "tibero", "spring legacy"]
     }
   ],
 
@@ -83,25 +110,19 @@
   "certificate": [
     {
       "id": 0,
-      "name": "TOEIC 1000점",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
-    },
-    {
-      "id": 1,
-      "name": "OPIC IH",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
+      "name": "정보처리기사1급",
+      "date": "2019. 05. 00",
+      "organizer": "과학기술정보통신부"
     }
   ],
 
   "award": [
     {
       "id": 0,
-      "name": "첫번째 수상",
-      "date": "2019. 07. 28",
-      "organizer": "수여기관",
-      "description": "첫번째 수상에 대한 간략한 설명"
+      "name": "우수직원상",
+      "date": "2023. 12. 28",
+      "organizer": "위즈아이",
+      "description": "우수직원상"
     }
   ]
 }

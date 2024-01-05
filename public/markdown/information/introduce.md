@@ -1,7 +1,4 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 개발직군으로서 비개발직군과 소통한 경험이 많아요. 덕분에 다양한 부서와 **원활한 커뮤니케이션**이 가능합니다.
+- 대용량 데이터 베이스 시스템 구축 및 운영 경험이 있어요.
+- [직접 개발한 공공데이터 포털 오픈 API.](https://www.data.go.kr/data/15102239/openapi.do)
+- 맡은 일은 반드시 끝내고야 마는 **강인한 책임감과 짐념**의 소유자입니다.

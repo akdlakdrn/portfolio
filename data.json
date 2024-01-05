@@ -73,7 +73,7 @@
       "webUrl": "https://global.amo.go.kr/index.do",
       "isTeam": true,
       "period": ["2022. 05", "2022. 12"],
-      "stack": ["Java", "Spring Boot", "tibero", "spring legacy"]
+      "stack": ["Java", "Spring Boot", "oracle", "spring legacy"]
     }
   ],
 
